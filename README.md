@@ -15,7 +15,7 @@ This project is a web scraper for collecting data on gaming laptops from **Flipk
   - Weight
 - Stores the scraped data in a CSV file for later analysis or use.
 - Supports scraping multiple pages (up to 300 in this case).
-
+## Also use my app =https://mainpy-dzsom3h3ytafnvtl9rjufi.streamlit.app/
 ## Dependencies
 
 - `requests` - For making HTTP requests to the website.
@@ -23,6 +23,6 @@ This project is a web scraper for collecting data on gaming laptops from **Flipk
 - `pandas` - For storing and saving the scraped data in CSV format.
 
 You can install the necessary dependencies using `pip`:
-
 ```bash
 pip install requests beautifulsoup4 pandas
+
